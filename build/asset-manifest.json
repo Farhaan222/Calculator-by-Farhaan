@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.io/static/css/main.d0b100d8.css",
+    "main.js": "/github.io/static/js/main.e64caed6.js",
+    "static/js/787.a174f9e5.chunk.js": "/github.io/static/js/787.a174f9e5.chunk.js",
+    "static/media/MochiyPopPOne-Regular.ttf": "/github.io/static/media/MochiyPopPOne-Regular.a343480e7534e19d0c78.ttf",
+    "static/media/Background.jpg": "/github.io/static/media/Background.69a9f01ad68b33d410e7.jpg",
+    "index.html": "/github.io/index.html",
+    "main.d0b100d8.css.map": "/github.io/static/css/main.d0b100d8.css.map",
+    "main.e64caed6.js.map": "/github.io/static/js/main.e64caed6.js.map",
+    "787.a174f9e5.chunk.js.map": "/github.io/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0b100d8.css",
+    "static/js/main.e64caed6.js"
+  ]
+}
